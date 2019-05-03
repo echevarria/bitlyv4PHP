@@ -1,0 +1,21 @@
+{
+  "name": "echevarria/bitlyv4php",
+  "description": "A simple PHP Library based on Guzzle to consume Bit.ly API V4",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "6.*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "echevarria",
+      "email": "quinho@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Echevarria\\Bitly\\": "src/"
+    }
+  }
+}
