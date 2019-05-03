@@ -1,6 +1,6 @@
 {
   "name": "echevarria/bitlyv4php",
-  "description": "A simple PHP Library based on Guzzle to consume Bit.ly API V4",
+  "description": "A simple PHP Library based on Guzzle to generate short links using Bit.ly API V4",
   "type": "library",
   "require": {
     "guzzlehttp/guzzle": "6.*"
@@ -9,7 +9,8 @@
   "authors": [
     {
       "name": "echevarria",
-      "email": "quinho@gmail.com"
+      "email": "quinho@gmail.com",
+      "homepage": "https://bemobile.tech"
     }
   ],
   "minimum-stability": "dev",
