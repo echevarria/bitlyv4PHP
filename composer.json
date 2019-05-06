@@ -13,8 +13,8 @@
       "homepage": "https://bemobile.tech"
     }
   ],
-  "minimum-stability": "dev",
-  "prefer-stable": false,
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "Echevarria\\Bitly\\": "src/"
