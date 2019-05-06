@@ -19,7 +19,7 @@ curl -sS https://getcomposer.org/installer | php
 Next, run the Composer command to install:
 
 ```bash
-php composer.phar require echevarria/bitlyv4php
+php composer.phar require echevarria/bitlyv4php:dev-master
 ```
 
 After installing, you need to require Composer's autoloader:
